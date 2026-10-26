@@ -13,87 +13,46 @@
 
 ## Hey, I'm Ronit 👋
 
-I build AI products and automations around problems people actually run into: keeping up with regulatory changes, navigating insurance paperwork, or finding the right product in a business's inventory.
+I'm a **Data Science & AI student at Masters’ Union**, working at **ParalaxAI**. I turn practical problems into AI products and business automations, from regulatory tracking to customer workflows.
 
-I'm a **first-year Data Science & AI student** in the Technology & Business Management programme at **Masters’ Union**, and I'm **working at ParalaxAI**. I enjoy the whole process: understanding the problem, building a prototype, and explaining it clearly enough for someone to use it.
+I build with **AI coding tools**, focusing on product workflows, integrations, and evaluating the result.
 
-## Working at ParalaxAI
+## At ParalaxAI — a connected workspace for a client business
 
-I work on **AI products, business automation, and client websites**, turning requirements into working prototypes.
+**The need:** manage website content, clients, sales opportunities, and inventory-based customer conversations from one place.
 
-- **Internal company dashboard:** built a central workspace for a client company to manage website updates, track clients, and follow their sales pipeline.
-- **Website management:** enabled the team to make changes to their existing website directly from the dashboard.
-- **Client & pipeline tracking:** brought client records and pipeline visibility into the same workspace.
-- **Inventory matching & WhatsApp automation:** connected customer requests with live inventory to surface the closest in-stock match and support product recommendations inside WhatsApp.
-- **Integrated AI messaging:** added AI that can send messages on the company's behalf as part of the workflow.
-- **Research & experimentation:** testing AI tools and approaches to turn client requirements into useful product experiences.
+**What I built:** an internal dashboard that lets the team update their existing website, track clients and their pipeline, and find the closest in-stock match for customer requests. WhatsApp automation and integrated AI support product recommendations and messaging on the company's behalf.
+
+**What it enables:** website updates, client tracking, inventory matching, and customer communication within a connected workflow.
 
 ## Selected projects
 
-| Project | What it does | Under the hood |
+| Project | What it does | Project stack |
 | :--- | :--- | :--- |
-| **[Raahat · Team MUVOLT](https://github.com/shinnyminny/MUVOLT)** | A HackIIITD / Esya '26 team project helping caregivers respond to insurance document queries: read requirements, identify missing documents, approve a submission, and track rejections. **Demo uses fictional insurer and hospital sandboxes.** | TypeScript · React · Node.js · Gemini · TinyFish |
-| **[PolicyPulse](https://github.com/ronitpahuja08/policypulse)** | Tracks RBI and SEBI notifications, extracts PDFs, and stores structured updates. Includes AI classification and daily brief generation; email distribution requires separate activation. | Python · Gemini · Supabase · GitHub Actions |
-| **[Candle](https://github.com/ronitpahuja08/Candle)** | A relationship app with daily questions whose answers unlock only after both partners respond, plus shared plans and a memory wall. | React Native · Expo · FastAPI · MongoDB · WebSockets |
-| **[Masters Union Nations](https://github.com/ronitpahuja08/masters-union-nations)** | A conference website with committee information, applications, a delegate ID studio, and a Razorpay checkout integration. | HTML · CSS · JavaScript · Vercel · Razorpay |
+| **[Raahat · Team MUVOLT](https://github.com/shinnyminny/MUVOLT)** | HackIIITD / Esya '26 team project for insurance document queries: identify missing documents, approve submissions, and track rejections. Uses fictional insurer and hospital sandboxes. | React · Node.js · Gemini · TinyFish |
+| **[PolicyPulse](https://github.com/ronitpahuja08/policypulse)** | Tracks RBI & SEBI notifications, extracts PDFs, and generates AI-classified compliance briefs. Email delivery requires separate activation. | Python · Gemini · Supabase · GitHub Actions |
+| **[Candle](https://github.com/ronitpahuja08/Candle)** | An app for two with sealed daily answers, simultaneous reveals, shared plans, and a photo memory wall. | React Native · Expo · FastAPI · MongoDB |
 
-**[Explore all my repositories →](https://github.com/ronitpahuja08?tab=repositories)**
+**[Explore all repositories →](https://github.com/ronitpahuja08?tab=repositories)**
 
-### Beyond the public repos
+## Project stack & tools
 
-- **AI Speech Coach:** built a local practice tool with prompts, pause and stumble analysis, response scoring, feedback, and adaptive counter-questions.
-- **Personal AI Assistant:** built a local assistant for computer interaction and autonomous multi-step tasks.
-
-The speech coach and personal assistant are local projects; their code is not currently published here.
-
-## Stack behind my AI-assisted projects
-
-I build these projects with AI coding tools. The badges below show technologies used in the projects, rather than independent proficiency in every language or framework. My focus is on understanding the problem, directing the build, and evaluating the result.
-
-### Languages used in the projects
+Badges show technologies used in my AI-assisted projects.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### Frontend & mobile in the projects
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-### Backend & data in the projects
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-243447?style=for-the-badge&logoColor=white)
 
-### AI & developer tools
-
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![TinyFish](https://img.shields.io/badge/TinyFish-159F85?style=for-the-badge&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### What I build
+## Let's build something useful
 
-![AI Products](https://img.shields.io/badge/AI%20Products-173D3A?style=for-the-badge&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-173D3A?style=for-the-badge&logoColor=white)
-![Rapid Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-243447?style=for-the-badge&logoColor=white)
+Interested in hackathon teams building **AI agents, practical automation, fintech, and simpler business workflows**. I bring product thinking, hands-on prototyping with AI, and clear communication.
 
-**Product skills:** client requirements · research · project management · public speaking
-
-## Learning
-
-Completed the **Machine Learning Specialization** from **DeepLearning.AI & Stanford Online**, covering supervised learning, advanced learning algorithms, unsupervised learning, recommenders, and reinforcement learning.
-
-### Let's build something useful
-
-I'm interested in hackathon teams working on **AI agents, practical automation, fintech, and tools that make complicated workflows easier**. I bring hands-on prototyping, product thinking, and the ability to present what we build.
-
-**[Connect with me on LinkedIn →](https://www.linkedin.com/in/ronit-pahuja-a13507378/)**
+**[Connect on LinkedIn →](https://www.linkedin.com/in/ronit-pahuja-a13507378/)**
