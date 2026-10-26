@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=69E4BD&center=true&vCenter=true&width=700&lines=Building+AI+products+%26+useful+automations;Working+at+Parallax+AI;Turning+ideas+into+working+prototypes" alt="Building AI products and useful automations · Working at Parallax AI · Turning ideas into working prototypes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=69E4BD&center=true&vCenter=true&width=700&lines=Building+AI+products+%26+useful+automations;Working+at+ParalaxAI;Turning+ideas+into+working+prototypes" alt="Building AI products and useful automations · Working at ParalaxAI · Turning ideas into working prototypes" />
 </p>
 
 ## Hey, I'm Ronit 👋
 
 I build AI products and automations around problems people actually run into: keeping up with regulatory changes, navigating insurance paperwork, or finding the right product in a business's inventory.
 
-I'm a **first-year Data Science & AI student** in the Technology & Business Management programme at **Masters’ Union**, and I'm **working at [Parallax AI](https://github.com/ParalaxAI)**. I enjoy the whole process: understanding the problem, building a prototype, and explaining it clearly enough for someone to use it.
+I'm a **first-year Data Science & AI student** in the Technology & Business Management programme at **Masters’ Union**, and I'm **working at [ParalaxAI](https://paralaxai.com/)**. I enjoy the whole process: understanding the problem, building a prototype, and explaining it clearly enough for someone to use it.
 
-## Working at Parallax AI
+## Working at ParalaxAI
 
 I work on **AI products, business automation, and client websites**, turning requirements into working prototypes.
 
@@ -27,7 +27,8 @@ I work on **AI products, business automation, and client websites**, turning req
 - **Research & experimentation:** testing AI tools and approaches to find what works for the problem at hand.
 
 <p>
-  <a href="https://github.com/ParalaxAI"><img alt="Explore Parallax AI on GitHub" src="https://img.shields.io/badge/PARALLAX_AI-Explore_the_organization-69E4BD?style=for-the-badge&logo=github&logoColor=0C1424" /></a>
+  <a href="https://paralaxai.com/"><img alt="Visit ParalaxAI agency website" src="https://img.shields.io/badge/ParalaxAI-Visit_our_agency-69E4BD?style=for-the-badge&logoColor=0C1424" /></a>
+  <a href="https://github.com/ParalaxAI"><img alt="Explore ParalaxAI on GitHub" src="https://img.shields.io/badge/ParalaxAI-Explore_the_organization-69E4BD?style=for-the-badge&logo=github&logoColor=0C1424" /></a>
 </p>
 
 ## Selected projects
@@ -48,9 +49,11 @@ I work on **AI products, business automation, and client websites**, turning req
 
 The speech coach and personal assistant are local projects; their code is not currently published here.
 
-## Languages & tech stack
+## Stack behind my AI-assisted projects
 
-### Languages
+I build these projects with AI coding tools. The badges below show technologies used in the projects, rather than independent proficiency in every language or framework. My focus is on understanding the problem, directing the build, and evaluating the result.
+
+### Languages used in the projects
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,13 +61,13 @@ The speech coach and personal assistant are local projects; their code is not cu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-### Frontend & mobile
+### Frontend & mobile in the projects
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-### Backend & data
+### Backend & data in the projects
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
