@@ -4,32 +4,29 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ronit-pahuja-a13507378/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=flat-square" /></a>
-  <a href="https://github.com/shinnyminny/MUVOLT"><img alt="HackIIITD project" src="https://img.shields.io/badge/HackIIITD-Team_MUVOLT-159f85?style=flat-square" /></a>
   <img alt="Focus: AI products and automation" src="https://img.shields.io/badge/Focus-AI_products_%26_automation-303b50?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=69E4BD&center=true&vCenter=true&width=700&lines=Building+AI+products+%26+useful+automations;Working+at+ParalaxAI;Turning+ideas+into+working+prototypes" alt="Building AI products and useful automations · Working at ParalaxAI · Turning ideas into working prototypes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1500&color=69E4BD&center=true&vCenter=true&width=700&lines=Building+AI+products+%26+useful+automations;Turning+ideas+into+working+prototypes" alt="Building AI products and useful automations · Turning ideas into working prototypes" />
 </p>
 
 ## Hey, I'm Ronit 👋
 
 I build AI products and automations around problems people actually run into: keeping up with regulatory changes, navigating insurance paperwork, or finding the right product in a business's inventory.
 
-I'm a **first-year Data Science & AI student** in the Technology & Business Management programme at **Masters’ Union**, and I'm **working at [ParalaxAI](https://paralaxai.com/)**. I enjoy the whole process: understanding the problem, building a prototype, and explaining it clearly enough for someone to use it.
+I'm a **first-year Data Science & AI student** in the Technology & Business Management programme at **Masters’ Union**, and I'm **working at ParalaxAI**. I enjoy the whole process: understanding the problem, building a prototype, and explaining it clearly enough for someone to use it.
 
 ## Working at ParalaxAI
 
 I work on **AI products, business automation, and client websites**, turning requirements into working prototypes.
 
-- **WhatsApp inventory automation:** built a workflow that handles initial customer requests and finds the closest in-stock match from a client's live inventory, so recommendations can be shared inside WhatsApp.
-- **Client web development:** building websites and translating client requirements into usable product experiences.
-- **Research & experimentation:** testing AI tools and approaches to find what works for the problem at hand.
-
-<p>
-  <a href="https://paralaxai.com/"><img alt="Visit ParalaxAI agency website" src="https://img.shields.io/badge/ParalaxAI-Visit_our_agency-69E4BD?style=for-the-badge&logoColor=0C1424" /></a>
-  <a href="https://github.com/ParalaxAI"><img alt="Explore ParalaxAI on GitHub" src="https://img.shields.io/badge/ParalaxAI-Explore_the_organization-69E4BD?style=for-the-badge&logo=github&logoColor=0C1424" /></a>
-</p>
+- **Internal company dashboard:** built a central workspace for a client company to manage website updates, track clients, and follow their sales pipeline.
+- **Website management:** enabled the team to make changes to their existing website directly from the dashboard.
+- **Client & pipeline tracking:** brought client records and pipeline visibility into the same workspace.
+- **Inventory matching & WhatsApp automation:** connected customer requests with live inventory to surface the closest in-stock match and support product recommendations inside WhatsApp.
+- **Integrated AI messaging:** added AI that can send messages on the company's behalf as part of the workflow.
+- **Research & experimentation:** testing AI tools and approaches to turn client requirements into useful product experiences.
 
 ## Selected projects
 
