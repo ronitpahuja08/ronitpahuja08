@@ -36,6 +36,9 @@ I built a system of **12 specialised AI agents** to automate ParalaxAI’s outre
 
 | Project | What it does | Project stack |
 | :--- | :--- | :--- |
+| **[Brain](https://github.com/ronitpahuja08/Brain)** | Extends CompanyBrain, a self-hosted company knowledge platform, with safer deployment defaults, configuration checks, and retrieval quality benchmarks. | TypeScript · PostgreSQL · pgvector |
+| **[SafeSignal](https://github.com/ronitpahuja08/ai-women-safety-system)** | Co-built a personal safety prototype with manual SOS, opt-in location sharing, check-in reminders, and optional trusted-contact SMS. | Python · JavaScript · Twilio |
+| **[ALGO](https://github.com/ronitpahuja08/ALGO)** | Interactive collision detection lab that visualizes rectangle overlap with mouse, touch, or keyboard controls and includes tests for edge cases. | JavaScript · p5.js · p5.play |
 | **[Repo Health MCP](https://github.com/ronitpahuja08/repo-health-mcp)** | A read-only MCP server that explains GitHub repository health using maintenance and contributor activity, and surfaces good first issues. | TypeScript · Node.js · MCP · GitHub REST API |
 | **[Grounded RAG](https://github.com/ronitpahuja08/grounded-rag)** | In development: a local document Q&A system designed to cite the passages behind each answer. The data models and provider interfaces are in place. | Python |
 | **[Raahat · Team MUVOLT](https://github.com/shinnyminny/MUVOLT)** | HackIIITD / Esya '26 team project for insurance document queries: identify missing documents, approve submissions, and track rejections. Uses fictional insurer and hospital sandboxes. | React · Node.js · Gemini · TinyFish |
