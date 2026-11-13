@@ -25,6 +25,13 @@ I build with **AI coding tools**, focusing on product workflows, integrations, a
 
 **What it enables:** website updates, client tracking, inventory matching, and customer communication within a connected workflow.
 
+### Multi-agent outreach at ParalaxAI
+
+I built a system of **12 specialised AI agents** to automate ParalaxAI’s outreach workflow end to end. Each agent uses its own knowledge base and handles a specific part of the workflow, from mapping target markets to classifying replies and routing sensitive conversations to a human.
+
+- **[MarketScout](https://github.com/ronitpahuja08/market-scout-agent)** maps target markets by geography, deduplicates companies, and estimates research coverage before handing results to the next stage.
+- **[ReplyGuard](https://github.com/ronitpahuja08/replyguard)** classifies multilingual replies, enforces opt-out rules, and hands sensitive or uncertain conversations to a human.
+
 ## Selected projects
 
 | Project | What it does | Project stack |
@@ -34,6 +41,9 @@ I build with **AI coding tools**, focusing on product workflows, integrations, a
 | **[Raahat · Team MUVOLT](https://github.com/shinnyminny/MUVOLT)** | HackIIITD / Esya '26 team project for insurance document queries: identify missing documents, approve submissions, and track rejections. Uses fictional insurer and hospital sandboxes. | React · Node.js · Gemini · TinyFish |
 | **[PolicyPulse](https://github.com/ronitpahuja08/policypulse)** | Tracks RBI & SEBI notifications, extracts PDFs, and generates AI-classified compliance briefs. Email delivery requires separate activation. | Python · Gemini · Supabase · GitHub Actions |
 | **[Candle](https://github.com/ronitpahuja08/Candle)** | An app for two with sealed daily answers, simultaneous reveals, shared plans, and a photo memory wall. | React Native · Expo · FastAPI · MongoDB |
+| **[CodeSentry](https://github.com/ronitpahuja08/codesentry)** | Defensive CLI that scans repositories for accidentally exposed credentials and reports findings in text or JSON. | Security scanning · CLI |
+| **[QueueCraft](https://github.com/ronitpahuja08/queuecraft)** | A background job lifecycle engine with an HTTP API, in-memory storage, and automated tests. | Job orchestration · HTTP |
+| **[Engineering Practice Lab](https://github.com/ronitpahuja08/engineering-practice-lab)** | A public workspace for algorithm and JavaScript exercises, with issues, tests, design notes, and pull requests. | JavaScript · GitHub |
 
 **[Explore all repositories →](https://github.com/ronitpahuja08?tab=repositories)**
 
