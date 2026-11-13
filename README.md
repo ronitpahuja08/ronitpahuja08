@@ -29,6 +29,8 @@ I build with **AI coding tools**, focusing on product workflows, integrations, a
 
 | Project | What it does | Project stack |
 | :--- | :--- | :--- |
+| **[Repo Health MCP](https://github.com/ronitpahuja08/repo-health-mcp)** | A read-only MCP server that explains GitHub repository health using maintenance and contributor activity, and surfaces good first issues. | TypeScript · Node.js · MCP · GitHub REST API |
+| **[Grounded RAG](https://github.com/ronitpahuja08/grounded-rag)** | In development: a local document Q&A system designed to cite the passages behind each answer. The data models and provider interfaces are in place. | Python |
 | **[Raahat · Team MUVOLT](https://github.com/shinnyminny/MUVOLT)** | HackIIITD / Esya '26 team project for insurance document queries: identify missing documents, approve submissions, and track rejections. Uses fictional insurer and hospital sandboxes. | React · Node.js · Gemini · TinyFish |
 | **[PolicyPulse](https://github.com/ronitpahuja08/policypulse)** | Tracks RBI & SEBI notifications, extracts PDFs, and generates AI-classified compliance briefs. Email delivery requires separate activation. | Python · Gemini · Supabase · GitHub Actions |
 | **[Candle](https://github.com/ronitpahuja08/Candle)** | An app for two with sealed daily answers, simultaneous reveals, shared plans, and a photo memory wall. | React Native · Expo · FastAPI · MongoDB |
